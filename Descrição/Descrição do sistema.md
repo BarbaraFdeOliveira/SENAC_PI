@@ -37,10 +37,11 @@ Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicit
 Você preencherá os dados conforme o solicitado na tela e criará uma senha.
 
 ## Cadastro de Professor
+(Se for pessoa jurídica, deve marcar a checkbox)
 
-Por fim, mas não menos importante, temos a segunda tela que o professor deve preencher. Na primeira tela (Cadastro de Pessoa Física), ele já inseriu seus dados pessoais. Agora, nesta segunda tela, ele adicionará informações que o diferenciam de um aluno, como a "disciplina de atuação" e se ele é contratado ou atua como pessoa jurídica, prestando serviços esporadicamente para a instituição de ensino.
+Por fim, mas não menos importante, temos a segunda tela que o professor deve preencher. Nesta etapa, o professor adicionará informações que o diferenciam de um aluno, como a "disciplina de atuação" e se ele é contratado ou atua como pessoa jurídica, prestando serviços esporadicamente para a instituição de ensino. Caso seja pessoa jurídica, ele deve marcar a checkbox.
 
-![prof](https://github.com/user-attachments/assets/4a2f2ba9-ec1b-45ec-92e5-743893e88831)
+![Cadastro professor](https://github.com/user-attachments/assets/06cb4149-55ea-46b8-b2f1-eb074c6c3908)
 
 ---
 
