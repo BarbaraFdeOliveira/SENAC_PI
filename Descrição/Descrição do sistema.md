@@ -76,22 +76,22 @@ Por último, temos a tela onde o fornecedor libera o material solicitado pelos p
 
 ---
 
-# Casos de Uso: Caminho Feliz e Caminho Triste
+# Casos de Uso: Caminho válido e Caminho inválido
 
-Vamos observar dois exemplos de casos de uso, abordando tanto o "caminho feliz" quanto o "caminho triste". Mas você sabe o que são esses termos e o que é um caso de uso?
+Vamos observar dois exemplos de casos de uso, abordando tanto o "caminho válido" quanto o "caminho inválido". Mas você sabe o que são esses termos e o que é um caso de uso?
 
 ## O que é um Caso de Uso?
 
 Um caso de uso é a simulação de uma ação que o usuário realiza em uma determinada funcionalidade do sistema. Essa ação pode ter dois resultados:
 
-1. **Sucesso (Caminho Feliz)**: O sistema deve fornecer ao usuário aquilo que ele solicita, desde que ele siga as regras do sistema. Chamaremos esse cenário de "caminho feliz".
-2. **Insucesso (Caminho Triste)**: O sistema impede o usuário de realizar determinada ação porque ele não seguiu as diretrizes ou condições necessárias. Esse cenário será chamado de "caminho triste".
+1. **Sucesso (Caminho válido)**: O sistema deve fornecer ao usuário aquilo que ele solicita, desde que ele siga as regras do sistema. Chamaremos esse cenário de "caminho válido".
+2. **Insucesso (Caminho inválido)**: O sistema impede o usuário de realizar determinada ação porque ele não seguiu as diretrizes ou condições necessárias. Esse cenário será chamado de "caminho inválido".
 
 ## Exemplos
 
 ### Tela de Login
 
-**Caminho Feliz**  
+**Caminho válido**  
 **Cenário**: Usuário acessa a área logada com sucesso.
 
 **Como usuário, eu:**
@@ -102,7 +102,7 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 **Resultado esperado**: Devo ser direcionado para a tela inicial.
 
-**Caminho Triste**  
+**Caminho inválido**  
 **Cenário**: Usuário tenta acessar a área logada, mas erra a senha.
 
 **Como usuário, eu:**
@@ -117,7 +117,7 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 ### Tela de Seleção de Material
 
-**Caminho Feliz**  
+**Caminho válido**  
 **Cenário**: Usuário solicita material com sucesso.
 
 **Como usuário, eu:**
@@ -129,7 +129,7 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 **Resultado esperado**: Devo verificar a disponibilidade dos materiais solicitados.
 
-**Caminho Triste**  
+**Caminho inválido**  
 **Cenário**: Usuário solicita material, mas esquece de selecionar o tipo de material.
 
 **Como usuário, eu:**
