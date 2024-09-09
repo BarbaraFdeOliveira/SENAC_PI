@@ -73,3 +73,61 @@ Por último, mas não menos importante, temos a tela onde o professor pode solic
 ---
 
 Conforme dito no primeiro parágrafo, esta é uma breve descrição de cada tela, que pode servir como um norte para os usuários. Acredito que uma descrição mais sucinta estimula o usuário a explorar o sistema, e com a "mão na massa" ele aprenderá muito mais. :)
+
+# Casos de Uso: Caminho Feliz e Caminho Triste
+
+Vamos observar dois exemplos de casos de uso, abordando tanto o "caminho feliz" quanto o "caminho triste". Mas você sabe o que são esses termos e o que é um caso de uso?
+
+## O que é um Caso de Uso?
+
+Um caso de uso é a simulação de uma ação que o usuário realiza em uma determinada funcionalidade do sistema. Essa ação pode ter dois resultados:
+
+1. **Sucesso (Caminho Feliz)**: O sistema deve fornecer ao usuário aquilo que ele solicita, desde que ele siga as regras do sistema. Chamaremos esse cenário de "caminho feliz".
+
+2. **Insucesso (Caminho Triste)**: O sistema impede o usuário de realizar determinada ação porque ele não seguiu as diretrizes ou condições necessárias. Esse cenário será chamado de "caminho triste".
+
+## Exemplos
+
+### Tela de Login
+
+**Caminho Feliz**  
+**Cenário**: Usuário acessa a área logada com sucesso.  
+**Como usuário eu:**
+- Acesso o site da instituição.
+- Digito meu e-mail de login corretamente.
+- Digito minha senha corretamente.
+- Clico em "Entrar".  
+**Resultado esperado**: Devo ser direcionado para a tela inicial.
+
+**Caminho Triste**  
+**Cenário**: Usuário tenta acessar a área logada, mas erra a senha.  
+**Como usuário eu:**
+- Acesso o site da instituição.
+- Digito meu e-mail de login corretamente.
+- Digito minha senha incorretamente.
+- Clico em "Entrar".  
+**Resultado esperado**: Devo receber uma mensagem de erro e não ser direcionado para a tela inicial.
+
+---
+
+### Tela de Seleção de Material
+
+**Caminho Feliz**  
+**Cenário**: Usuário solicita material com sucesso.  
+**Como usuário eu:**
+- Acesso a tela de Seleção de Material.
+- Digito meu nome no campo "Solicitante".
+- Digito o nome do material.
+- Seleciono o tipo de material.
+- Clico em "Consultar".  
+**Resultado esperado**: Devo verificar a disponibilidade dos materiais solicitados.
+
+**Caminho Triste**  
+**Cenário**: Usuário solicita material, mas esquece de selecionar o tipo de material.  
+**Como usuário eu:**
+- Acesso a tela de Seleção de Material.
+- Digito meu nome no campo "Solicitante".
+- Digito o nome do material.
+- Não seleciono o tipo de material.
+- Clico em "Consultar".  
+**Resultado esperado**: Devo receber um alerta do sistema solicitando que eu preencha o campo "Tipo de Material".
