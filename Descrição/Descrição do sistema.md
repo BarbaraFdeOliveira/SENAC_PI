@@ -67,7 +67,7 @@ Essa tela permite que o professor registre as notas dos alunos. Primeiramente, e
 
 ## Tela de Seleção de material
 
-Suponhamos que as canetas azuis do professor tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação.
+Suponhamos que as canetas azuis do professor Pedro, tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação.
 Naturalmente, deverá preencher os campos "Solicitante" e "Material".
 
 ![Seleção de material](https://github.com/user-attachments/assets/c155e7af-f592-430a-837e-84a33ff2d1dd)
