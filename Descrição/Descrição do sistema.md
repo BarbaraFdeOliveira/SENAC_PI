@@ -50,13 +50,13 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 ## Tela de Avaliação
 
-Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tanto somente pelo aluno.
+Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tão somente pelo aluno e mostrará de acordo com as notas se o aluno terá que realizar ou não a prova de recuperação/reavaliação. Caso a média fique abaixo de 7, o aluno fará uma nova prova e o professor poderá postar a nota da "rec" recuperação, que atualizará a média automaticamente. Caso o aluno não atinja a média após a recuperação, a cor da média ficará vermelha, indicando reprovação.
 
 ![Avali](https://github.com/user-attachments/assets/a07c97e5-6c6f-4478-a58e-714ea2ccc724)
 
 ## Tela de Matrícula
 
-Todos aqueles que desejam se tornar alunos precisam preencher seus dados na tela de matrícula. Entre esses dados, será necessário informar se a pessoa possui um fiador (gerente financeiro) e a forma de pagamento de sua preferência.
+Todos aqueles que desejam se tornar alunos precisam preencher seus dados na tela de matrícula, incluindo a escolha do curso, onde caso o curso ainda possua disponibilidade, o aluno conseguirá realizar a seleção, caso contrário o curso aparecerá em cinza, impedindo a seleção. Além desses dados, será necessário informar se a pessoa possui um fiador (gerente financeiro) e a forma de pagamento de sua preferência.
 
 ![Matr](https://github.com/user-attachments/assets/0531d441-d527-4058-8945-23260ecb654b)
 
