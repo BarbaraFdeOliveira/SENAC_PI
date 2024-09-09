@@ -1,14 +1,12 @@
 # Descrição do Protótipo de Interface do Sistema
 
-Este documento tem como objetivo apresentar uma breve descrição das telas do protótipo da interface do sistema desenvolvida por nossa equipe. Ele serve para descrever cada tela, suas funcionalidades e recursos, podendo também ser utilizado como um manual para o usuário.
+Este documento tem como objetivo apresentar uma breve descrição das telas do protótipo da interface do sistema desenvolvido por nossa equipe. Ele serve para descrever cada tela, suas funcionalidades e recursos, podendo também ser utilizado como um manual para o usuário.
 
 Vamos começar pela primeira tela, a tela de login.
 
 ## Tela de Login
 
-
-A tela de login segue o padrão já encontrado no mercado. Como teremos dois tipos de usuários na área logada, Pessoa Física (que possui CPF) e Pessoa Jurídica (que possu
-i CNPJ), também há a opção para quem não é cadastrado realizar o respectivo cadastro.
+A tela de login segue o padrão já encontrado no mercado. Como teremos dois tipos de usuários na área logada, Pessoa Física (que possui CPF) e Pessoa Jurídica (que possui CNPJ), também há a opção para quem não é cadastrado realizar o respectivo cadastro.
 
 ![Login](https://github.com/user-attachments/assets/742bd9af-6873-48d8-a0fa-29861389ac6b)
 
@@ -22,24 +20,23 @@ A seguir, explicaremos como efetuar seu cadastro, dependendo da sua natureza, po
 
 ## Cadastro Pessoa Física (Aluno ou Professor)
 
-A tela de cadastro para Pessoa Física é simples e intuitiva. O usuário precisará preencher dados pessoais como CPF, nome, data de nascimento, e-mail, endereço e criar uma senha. 
+A tela de cadastro para Pessoa Física é simples e intuitiva. O usuário precisará preencher dados pessoais como CPF, nome, data de nascimento, e-mail, endereço e criar uma senha.
 
 ![Cadastro 01](https://github.com/user-attachments/assets/9c35cad7-b5aa-40a5-90e6-fa6923ad98b0)
 
-Detalhe: essa tela serve tanto para professores quanto para alunos. No entanto, o professor terá uma segunda tela para preencher. Mas não se preocupe, falaremos sobre isso mais adiante. :)
+Essa tela serve tanto para professores quanto para alunos. No entanto, o professor terá uma segunda tela para preencher. Falaremos sobre isso a seguir.
 
 ## Cadastro de Fornecedor
 
-Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicitados são diferentes do cadastro de Pessoa Física, pois o fornecedor deve possuir uma pessoa jurídica com CNPJ próprio e nome fantasia, por exemplo. 
+Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicitados são diferentes do cadastro de Pessoa Física, pois o fornecedor deve possuir uma pessoa jurídica com CNPJ próprio e nome fantasia, por exemplo.
 
 ![Cadastro forn](https://github.com/user-attachments/assets/5d6c059d-7473-472a-b9bf-41deee2b6a07)
 
 Você preencherá os dados conforme o solicitado na tela e criará uma senha.
 
 ## Cadastro de Professor
-(Se for pessoa jurídica, deve marcar a checkbox)
 
-Por fim, mas não menos importante, temos a segunda tela que o professor deve preencher. Nesta etapa, o professor adicionará informações que o diferenciam de um aluno, como a "disciplina de atuação" e se ele é contratado ou atua como pessoa jurídica, prestando serviços esporadicamente para a instituição de ensino. Caso seja pessoa jurídica, ele deve marcar a checkbox.
+Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o professor adicionará informações que o diferenciam de um aluno, como a "disciplina de atuação" e se ele é contratado ou atua como pessoa jurídica, prestando serviços esporadicamente para a instituição de ensino. Caso seja pessoa jurídica, ele deve marcar a checkbox correspondente.
 
 ![Cadastro professor](https://github.com/user-attachments/assets/06cb4149-55ea-46b8-b2f1-eb074c6c3908)
 
@@ -61,28 +58,11 @@ Todos aqueles que desejam se tornar alunos precisam preencher seus dados na tela
 
 ## Tela de Delegar Notas
 
-Essa tela permite que o professor registre as notas dos alunos. Primeiramente, ele seleciona a turma e o aluno, e por último insere a nota correspondente.
+Essa tela permite que o professor registre as notas dos alunos. Primeiramente, ele seleciona a turma e o aluno, e por último, insere a nota correspondente.
 
 ![Delegar](https://github.com/user-attachments/assets/92f12d40-1b4e-4dec-8959-235c0f109d2a)
 
-## Tela de Seleção de material
-
-Suponhamos que as canetas azuis do professor Pedro, tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação.
-Naturalmente, deverá preencher os campos "Solicitante" e "Material".
-
-![Seleção de material](https://github.com/user-attachments/assets/c155e7af-f592-430a-837e-84a33ff2d1dd)
-
-A pessoa responsável por separar as canetas usará a tela seguinte.
-
-## Tela de liberação de material
-
-Por último, mas não menos importante, temos a tela onde o usuário libera o material solicitado por um professor, por exemplo. Após fazer a separação, o usuário deverá marcar a checkbox para indicar ao solicitante que já pode buscar sua solicitação. No caso mencionado, as canetas azuis. :)
-
-![Liberação sem --](https://github.com/user-attachments/assets/cad4c502-91c7-4c24-89dd-8dc57cae02a0)
-
 ---
-
-Conforme dito no primeiro parágrafo, esta é uma breve descrição de cada tela, que pode servir como um norte para os usuários. Acredito que uma descrição mais sucinta estimula o usuário a explorar o sistema, e com a "mão na massa" ele aprenderá muito mais. :)
 
 # Casos de Uso: Caminho Feliz e Caminho Triste
 
@@ -93,7 +73,6 @@ Vamos observar dois exemplos de casos de uso, abordando tanto o "caminho feliz" 
 Um caso de uso é a simulação de uma ação que o usuário realiza em uma determinada funcionalidade do sistema. Essa ação pode ter dois resultados:
 
 1. **Sucesso (Caminho Feliz)**: O sistema deve fornecer ao usuário aquilo que ele solicita, desde que ele siga as regras do sistema. Chamaremos esse cenário de "caminho feliz".
-
 2. **Insucesso (Caminho Triste)**: O sistema impede o usuário de realizar determinada ação porque ele não seguiu as diretrizes ou condições necessárias. Esse cenário será chamado de "caminho triste".
 
 ## Exemplos
@@ -101,21 +80,25 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 ### Tela de Login
 
 **Caminho Feliz**  
-**Cenário**: Usuário acessa a área logada com sucesso.  
-**Como usuário eu:**
-- Acesso o site da instituição.
-- Digito meu e-mail de login corretamente.
-- Digito minha senha corretamente.
-- Clico em "Entrar".  
+**Cenário**: Usuário acessa a área logada com sucesso.
+
+**Como usuário, eu:**
+1. Acesso o site da instituição.
+2. Digito meu e-mail de login corretamente.
+3. Digito minha senha corretamente.
+4. Clico em "Entrar".
+
 **Resultado esperado**: Devo ser direcionado para a tela inicial.
 
 **Caminho Triste**  
-**Cenário**: Usuário tenta acessar a área logada, mas erra a senha.  
-**Como usuário eu:**
-- Acesso o site da instituição.
-- Digito meu e-mail de login corretamente.
-- Digito minha senha incorretamente.
-- Clico em "Entrar".  
+**Cenário**: Usuário tenta acessar a área logada, mas erra a senha.
+
+**Como usuário, eu:**
+1. Acesso o site da instituição.
+2. Digito meu e-mail de login corretamente.
+3. Digito minha senha incorretamente.
+4. Clico em "Entrar".
+
 **Resultado esperado**: Devo receber uma mensagem de erro e não ser direcionado para a tela inicial.
 
 ---
@@ -123,21 +106,25 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 ### Tela de Seleção de Material
 
 **Caminho Feliz**  
-**Cenário**: Usuário solicita material com sucesso.  
-**Como usuário eu:**
-- Acesso a tela de Seleção de Material.
-- Digito meu nome no campo "Solicitante".
-- Digito o nome do material.
-- Seleciono o tipo de material.
-- Clico em "Consultar".  
+**Cenário**: Usuário solicita material com sucesso.
+
+**Como usuário, eu:**
+1. Acesso a tela de Seleção de Material.
+2. Digito meu nome no campo "Solicitante".
+3. Digito o nome do material.
+4. Seleciono o tipo de material.
+5. Clico em "Consultar".
+
 **Resultado esperado**: Devo verificar a disponibilidade dos materiais solicitados.
 
 **Caminho Triste**  
-**Cenário**: Usuário solicita material, mas esquece de selecionar o tipo de material.  
-**Como usuário eu:**
-- Acesso a tela de Seleção de Material.
-- Digito meu nome no campo "Solicitante".
-- Digito o nome do material.
-- Não seleciono o tipo de material.
-- Clico em "Consultar".  
+**Cenário**: Usuário solicita material, mas esquece de selecionar o tipo de material.
+
+**Como usuário, eu:**
+1. Acesso a tela de Seleção de Material.
+2. Digito meu nome no campo "Solicitante".
+3. Digito o nome do material.
+4. Não seleciono o tipo de material.
+5. Clico em "Consultar".
+
 **Resultado esperado**: Devo receber um alerta do sistema solicitando que eu preencha o campo "Tipo de Material".
