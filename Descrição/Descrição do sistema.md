@@ -65,11 +65,20 @@ Essa tela permite que o professor registre as notas dos alunos. Primeiramente, e
 
 ![Delegar](https://github.com/user-attachments/assets/92f12d40-1b4e-4dec-8959-235c0f109d2a)
 
-## Tela de Seleção de Material
+## Tela de Seleção de material
 
-Por último, mas não menos importante, temos a tela onde o professor pode solicitar materiais utilizados no dia a dia. Basta selecionar o tipo de material e verificar, por meio da caixa de seleção, se o item desejado está disponível.
+Suponhamos que as canetas azuis do professor tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação.
+Naturalmente, deverá preencher os campos "Solicitante" e "Material".
 
-![Liberação](https://github.com/user-attachments/assets/9cb4b1ec-fa2e-4995-bdac-0210fe15a8c8)
+![Seleção de material](https://github.com/user-attachments/assets/c155e7af-f592-430a-837e-84a33ff2d1dd)
+
+A pessoa responsável por separar as canetas usará a tela seguinte.
+
+## Tela de liberação de material
+
+Por último, mas não menos importante, temos a tela onde o usuário libera o material solicitado por um professor, por exemplo. Após fazer a separação, o usuário deverá marcar a checkbox para indicar ao solicitante que já pode buscar sua solicitação. No caso mencionado, as canetas azuis. :)
+
+![Liberação sem --](https://github.com/user-attachments/assets/cad4c502-91c7-4c24-89dd-8dc57cae02a0)
 
 ---
 
