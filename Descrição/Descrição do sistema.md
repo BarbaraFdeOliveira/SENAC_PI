@@ -100,7 +100,7 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 **Como usuário, eu:**
 1. Acesso o site da instituição.
-2. Digito meu e-mail de login corretamente.
+2. Digito meu CPF ou CNPJ de login corretamente.
 3. Digito minha senha corretamente.
 4. Clico em "Entrar".
 
@@ -111,7 +111,7 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 **Como usuário, eu:**
 1. Acesso o site da instituição.
-2. Digito meu e-mail de login corretamente.
+2. Digito meu CPF ou CNPJ de login corretamente.
 3. Digito minha senha incorretamente.
 4. Clico em "Entrar".
 
