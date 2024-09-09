@@ -28,7 +28,7 @@ Essa tela serve tanto para professores quanto para alunos. No entanto, o profess
 
 ## Cadastro de Fornecedor
 
-Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicitados são diferentes do cadastro de Pessoa Física, pois o fornecedor deve possuir uma pessoa jurídica com CNPJ próprio e nome fantasia, por exemplo.
+Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicitados são diferentes do cadastro de Pessoa Física, pois o fornecedor deve possuir um CNPJ próprio e nome fantasia, por exemplo.
 
 ![Cadastro forn](https://github.com/user-attachments/assets/5d6c059d-7473-472a-b9bf-41deee2b6a07)
 
@@ -46,7 +46,7 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 ## Tela de Avaliação
 
-Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tanto pelo aluno quanto pelo professor.
+Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tanto somente pelo aluno.
 
 ![Avali](https://github.com/user-attachments/assets/a07c97e5-6c6f-4478-a58e-714ea2ccc724)
 
@@ -64,13 +64,13 @@ Essa tela permite que o professor registre as notas dos alunos. Primeiramente, e
 
 ## Tela de Seleção de Material
 
-Suponhamos que as canetas azuis do professor Pedro tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação. Naturalmente, deverá preencher os campos "Solicitante" e "Material".
+Suponhamos que as canetas azuis dos professores tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação e a quantidade. Naturalmente, deverá preencher os campos "Solicitante" e "Material".
 
 ![Seleção de material](https://github.com/user-attachments/assets/c155e7af-f592-430a-837e-84a33ff2d1dd)
 
 ## Tela de Liberação de Material
 
-Por último, temos a tela onde o usuário, responsável pelo estoque (suponhamos que seja Carlos), libera o material solicitado pelo professor Pedro. Após fazer a separação, Carlos deverá marcar a checkbox para indicar ao solicitante que ele já pode buscar a sua solicitação, como as canetas azuis.
+Por último, temos a tela onde o fornecedor libera o material solicitado pelos professores. Após fazer a separação, Carlos deverá marcar a checkbox para indicar ao solicitante que ele já pode buscar a sua solicitação.
 
 ![Liberação sem --](https://github.com/user-attachments/assets/cad4c502-91c7-4c24-89dd-8dc57cae02a0)
 
