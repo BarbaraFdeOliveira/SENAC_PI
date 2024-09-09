@@ -22,7 +22,7 @@ A seguir, explicaremos como efetuar seu cadastro, dependendo da sua natureza, po
 
 A tela de cadastro para Pessoa Física é simples e intuitiva. O usuário precisará preencher dados pessoais como CPF, nome, data de nascimento, e-mail, endereço e criar uma senha.
 
-![Cadastro 01](https://github.com/user-attachments/assets/9c35cad7-b5aa-40a5-90e6-fa6923ad98b0)
+![Cadastro_01](https://github.com/user-attachments/assets/3efdc5ac-acf1-4621-97a5-f2765b86f181)
 
 Essa tela serve tanto para professores quanto para alunos. No entanto, o professor terá uma segunda tela para preencher. Falaremos sobre isso a seguir.
 
@@ -30,7 +30,7 @@ Essa tela serve tanto para professores quanto para alunos. No entanto, o profess
 
 Se você for fornecedor, esta tela foi desenvolvida para você! Os dados solicitados são diferentes do cadastro de Pessoa Física, pois o fornecedor deve possuir um CNPJ próprio e nome fantasia, por exemplo.
 
-![Cadastro forn](https://github.com/user-attachments/assets/5d6c059d-7473-472a-b9bf-41deee2b6a07)
+![Cadastro forn](https://github.com/user-attachments/assets/0a048a71-162a-4099-bb24-8e868cc30e42)
 
 Você preencherá os dados conforme o solicitado na tela e criará uma senha.
 
@@ -60,13 +60,13 @@ Todos aqueles que desejam se tornar alunos precisam preencher seus dados na tela
 
 Essa tela permite que o professor registre as notas dos alunos. Primeiramente, ele seleciona a turma e o aluno, e por último, insere a nota correspondente.
 
-![Delegar](https://github.com/user-attachments/assets/92f12d40-1b4e-4dec-8959-235c0f109d2a)
+![Delegar](https://github.com/user-attachments/assets/010444f3-c736-4b23-8a34-d88548e4010c)
 
 ## Tela de Seleção de Material
 
 Suponhamos que as canetas azuis dos professores tenham acabado. Ele deverá se dirigir à tela de seleção de material, indicar qual material deseja (canetas, por exemplo) e fazer a solicitação e a quantidade. Naturalmente, deverá preencher os campos "Solicitante" e "Material".
 
-![Seleção de material](https://github.com/user-attachments/assets/c155e7af-f592-430a-837e-84a33ff2d1dd)
+![Seleção de mateiral](https://github.com/user-attachments/assets/316e364d-10a0-4cca-8427-92e0ffa82f9e)
 
 ## Tela de Liberação de Material
 
