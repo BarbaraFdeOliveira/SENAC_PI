@@ -12,7 +12,7 @@ i CNPJ), também há a opção para quem não é cadastrado realizar o respectiv
 
 ![Login](https://github.com/user-attachments/assets/742bd9af-6873-48d8-a0fa-29861389ac6b)
 
-Mas, como você pode se cadastrar caso ainda não tenha um registro?
+Mas, como você pode se cadastrar caso ainda não tenha um registro? Você é:
 
 - **Aluno?**
 - **Professor?**
