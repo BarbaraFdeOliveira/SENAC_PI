@@ -1,3 +1,7 @@
+# Diagrama de Classes
+
+![Diagrama de Classes](https://github.com/user-attachments/assets/862f7cf8-5d08-4389-b70c-d54def27d0fe)
+
 # Descrição do Protótipo de Interface do Sistema
 
 Este documento tem como objetivo apresentar uma breve descrição das telas do protótipo da interface do sistema desenvolvido por nossa equipe. Ele serve para descrever cada tela, suas funcionalidades e recursos, podendo também ser utilizado como um manual para o usuário.
@@ -140,3 +144,6 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 5. Clico em "Consultar".
 
 **Resultado esperado**: Devo receber um alerta do sistema solicitando que eu preencha o campo "Tipo de Material".
+
+![Diagrama de caso de uso](https://github.com/user-attachments/assets/5b55653d-4945-409f-9366-bc1dc21e1cc8)
+
