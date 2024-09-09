@@ -70,7 +70,7 @@ Suponhamos que as canetas azuis do professor Pedro tenham acabado. Ele deverá s
 
 ## Tela de Liberação de Material
 
-Por último, temos a tela onde o usuário libera o material solicitado por um professor, por exemplo. Após fazer a separação, o usuário deverá marcar a checkbox para indicar ao solicitante que já pode buscar sua solicitação, como as canetas azuis.
+Por último, temos a tela onde o usuário, responsável pelo estoque (suponhamos que seja Carlos), libera o material solicitado pelo professor Pedro. Após fazer a separação, Carlos deverá marcar a checkbox para indicar ao solicitante que ele já pode buscar a sua solicitação, como as canetas azuis.
 
 ![Liberação sem --](https://github.com/user-attachments/assets/cad4c502-91c7-4c24-89dd-8dc57cae02a0)
 
