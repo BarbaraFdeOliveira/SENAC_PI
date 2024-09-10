@@ -172,15 +172,18 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 ---
 
 # Desenvolvedores
-Bárbara Figueiredo de Oliveira
+
+### Bárbara Figueiredo de Oliveira
 -
-Cleibson da Silva Lima
+### Cleibson da Silva Lima
 -
-Marcela Carolina Anjo
+### Marcela Carolina Anjo
 -
-Thawan Nascimento Silva
+### Thawan Nascimento Silva
 -
-Thomaz Erick Assis dos Santos
+### Thomaz Erick Assis dos Santos
 -
-Luan Reinhold Silva Oertel
+### Luan Reinhold Silva Oertel
+-
+
 
