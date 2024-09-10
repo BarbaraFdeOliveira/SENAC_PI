@@ -1,9 +1,3 @@
-# Primeira entrega do Projeto Integrador
-
-[Primeira_Etapa_PI_3_Semestre](https://github.com/user-attachments/files/16938713/PI.-.3.Semestre.1.docx)
-
----
-
 # Diagrama de Classes
 
 ![Diagrama de Classes](https://github.com/user-attachments/assets/862f7cf8-5d08-4389-b70c-d54def27d0fe)
