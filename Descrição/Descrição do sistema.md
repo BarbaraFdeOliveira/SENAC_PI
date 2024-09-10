@@ -2,10 +2,13 @@
 
 ![Diagrama de Classes](https://github.com/user-attachments/assets/862f7cf8-5d08-4389-b70c-d54def27d0fe)
 
+
 # Diagrama de Casos de Uso
 
 ![Diagrama de caso de uso](https://github.com/user-attachments/assets/5b55653d-4945-409f-9366-bc1dc21e1cc8)
 
+
+---
 # Descrição do Protótipo de Interface do Sistema
 
 Este documento tem como objetivo apresentar uma breve descrição das telas do protótipo da interface do sistema desenvolvido por nossa equipe. Ele serve para descrever cada tela, suas funcionalidades e recursos, podendo também ser utilizado como um manual para o usuário.
@@ -50,6 +53,7 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 ---
 
+
 # Funcionalidades Importantes
 
  ### Aluno
@@ -65,6 +69,8 @@ Lançar Nota.
 Realizar cadastro;
 Consultar Material;
 Liberar Material.
+
+
 
 ## Tela de Avaliação
 
