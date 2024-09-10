@@ -52,16 +52,16 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 # Funcionalidades Importantes
 
-  # Aluno
+  ## Aluno
 Realizar Cadastro;
 Realizar Matricula;
 Consultar Nota.
-  # Professor
+  ## Professor
 Realizar Cadastro;
 Realiar Matricula;
 Solicitar Material;
 Lançar Nota.
- # Fornecedor
+ ## Fornecedor
 Realizar cadastro;
 Consultar Material;
 Liberar Material.
