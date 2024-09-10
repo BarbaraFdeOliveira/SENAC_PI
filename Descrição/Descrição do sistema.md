@@ -52,20 +52,19 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 # Funcionalidades Importantes
 
-  ## Aluno
+ ### Aluno
 Realizar Cadastro;
 Realizar Matricula;
 Consultar Nota.
-  ## Professor
+  ### Professor
 Realizar Cadastro;
 Realiar Matricula;
 Solicitar Material;
 Lançar Nota.
- ## Fornecedor
+ ### Fornecedor
 Realizar cadastro;
 Consultar Material;
 Liberar Material.
-
 
 ## Tela de Avaliação
 
@@ -98,6 +97,7 @@ Por último, temos a tela onde o fornecedor libera o material solicitado pelos p
 ![Liberação sem --](https://github.com/user-attachments/assets/cad4c502-91c7-4c24-89dd-8dc57cae02a0)
 
 ---
+
 
 # Casos de Uso: Caminho válido e Caminho inválido
 
