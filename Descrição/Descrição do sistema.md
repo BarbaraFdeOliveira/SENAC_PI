@@ -53,20 +53,20 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 # Funcionalidades Importantes
 
   # Aluno
-Realizar Cadastro
-Realizar Matricula
-Consultar Nota
+Realizar Cadastro;
+Realizar Matricula;
+Consultar Nota.
   # Professor
-Realizar Cadastro
-Realiar Matricula
-Solicitar Material
-Lançar Nota
+Realizar Cadastro;
+Realiar Matricula;
+Solicitar Material;
+Lançar Nota.
  # Fornecedor
-Realizar cadastro
-Consultar Material
-Liberar Material
+Realizar cadastro;
+Consultar Material;
+Liberar Material.
 
----
+
 ## Tela de Avaliação
 
 Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tão somente pelo aluno e mostrará de acordo com as notas se o aluno terá que realizar ou não a prova de recuperação/reavaliação. Caso a média fique abaixo de 7, o aluno fará uma nova prova e o professor poderá postar a nota da "rec" recuperação, que atualizará a média automaticamente. Caso o aluno não atinja a média após a recuperação, a cor da média ficará vermelha, indicando reprovação.
