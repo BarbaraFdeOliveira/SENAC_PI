@@ -2,7 +2,7 @@
 
 ![Diagrama de Classes](https://github.com/user-attachments/assets/862f7cf8-5d08-4389-b70c-d54def27d0fe)
 
-# Diagrama de Caso de Uso
+# Diagrama de Casos de Uso
 
 ![Diagrama de caso de uso](https://github.com/user-attachments/assets/5b55653d-4945-409f-9366-bc1dc21e1cc8)
 
@@ -52,6 +52,21 @@ Por fim, temos a segunda tela que o professor deve preencher. Nesta etapa, o pro
 
 # Funcionalidades Importantes
 
+  # Aluno
+Realizar Cadastro
+Realizar Matricula
+Consultar Nota
+  # Professor
+Realizar Cadastro
+Realiar Matricula
+Solicitar Material
+Lançar Nota
+ # Fornecedor
+Realizar cadastro
+Consultar Material
+Liberar Material
+
+---
 ## Tela de Avaliação
 
 Esta tela apresenta o desempenho do aluno nas matérias, mostrando todas as suas notas e a média. Ela pode ser acessada tão somente pelo aluno e mostrará de acordo com as notas se o aluno terá que realizar ou não a prova de recuperação/reavaliação. Caso a média fique abaixo de 7, o aluno fará uma nova prova e o professor poderá postar a nota da "rec" recuperação, que atualizará a média automaticamente. Caso o aluno não atinja a média após a recuperação, a cor da média ficará vermelha, indicando reprovação.
@@ -104,9 +119,9 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 
 **Como usuário, eu:**
 1. Acesso o site da instituição.
-2. Digito meu CPF ou CNPJ de login corretamente.
-3. Digito minha senha corretamente.
-4. Clico em "Entrar".
+3. Digito meu CPF ou CNPJ de login corretamente.
+4. Digito minha senha corretamente.
+5. Clico em "Entrar".
 
 **Resultado esperado**: Devo ser direcionado para a tela inicial.
 
@@ -122,7 +137,6 @@ Um caso de uso é a simulação de uma ação que o usuário realiza em uma dete
 **Resultado esperado**: Devo receber uma mensagem de erro e não ser direcionado para a tela inicial.
 
 ---
-
 ### Tela de Seleção de Material
 
 **Caminho válido**  
